@@ -38,7 +38,7 @@ st.markdown(
 )
 
 
-st.title(" Stylish Unit Converter ")
+st.title("Unit Converter ")
 
 
 st.sidebar.title("Choose Unit Type")
